@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace InvestmentPortfolioManagementDA_LIB.Models
 {
-    internal class Portfolio
+    public class Portfolio
     {
+        public int portfolioId { get; set; }
+        public int userId { get; set; }
+        public varchar portfoliaName { get; set; }
+        public DateTime creationDate { get; set; }
+
     }
 }
