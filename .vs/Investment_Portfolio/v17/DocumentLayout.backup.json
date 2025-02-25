@@ -30,10 +30,12 @@
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Repositories\\Class1.cs",
               "RelativeDocumentMoniker": "Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Repositories\\Class1.cs",
-              "ToolTip": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Repositories\\Class1.cs",
-              "RelativeToolTip": "Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Repositories\\Class1.cs",
+              "ToolTip": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Repositories\\Class1.cs*",
+              "RelativeToolTip": "Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Repositories\\Class1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T09:12:41.749Z"
+              "WhenOpened": "2025-02-25T09:12:41.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -45,7 +47,8 @@
               "RelativeToolTip": "Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T09:11:40.943Z"
+              "WhenOpened": "2025-02-25T09:11:40.943Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -57,7 +60,8 @@
               "RelativeToolTip": "Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T09:11:33.758Z"
+              "WhenOpened": "2025-02-25T09:11:33.758Z",
+              "EditorCaption": ""
             }
           ]
         }

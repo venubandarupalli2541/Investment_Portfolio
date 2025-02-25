@@ -2,11 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Investment_Portfolio",
+    "\\Investment_Portfolio\\InvestmentPortfolioManagementBO_Lib",
     "\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB",
-    "\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models",
     "\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Properties",
     "\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Repositories"
   ],
-  "SelectedNode": "\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Repositories\\Class1.cs",
+  "SelectedNode": "\\Investment_Portfolio\\InvestmentPortfolioManagementBO_Lib\\Properties",
   "PreviewInSolutionExplorer": false
 }
