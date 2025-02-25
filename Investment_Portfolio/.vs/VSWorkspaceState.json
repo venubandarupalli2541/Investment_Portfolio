@@ -2,19 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\InvestmentPortfolioManagementDA_LIB",
-<<<<<<< HEAD
-    "\\InvestmentPortfolioManagementDA_LIB\\Models",
-    "\\Investment_App"
-  ],
-  "SelectedNode": "\\InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs",
-=======
     "\\InvestmentPortfolioManagementDA_LIB\\Models"
   ],
-<<<<<<< HEAD
-  "SelectedNode": "\\InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs",
-=======
-  "SelectedNode": "\\InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs",
->>>>>>> 01be834ecd4cd40b4e68c678d1e3c83ded3445cf
->>>>>>> 75cd8fe634f8e4260402a3163be593109c4350e9
+  "SelectedNode": "\\InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs",
   "PreviewInSolutionExplorer": false
 }
