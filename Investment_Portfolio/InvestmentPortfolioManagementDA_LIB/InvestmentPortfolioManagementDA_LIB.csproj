@@ -49,6 +49,13 @@
     <Compile Include="Models\Risk.cs" />
     <Compile Include="Models\User_portfolio.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="References\AssetDARepository.cs" />
+    <Compile Include="References\IReferences.cs" />
+    <Compile Include="References\PerformanceDARepository.cs" />
+    <Compile Include="References\PortfolioDARepository.cs" />
+    <Compile Include="References\ReportDARepository.cs" />
+    <Compile Include="References\RiskDARepository.cs" />
+    <Compile Include="References\userPortfolioRepo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

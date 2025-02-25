@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace InvestmentPortfolioManagementDA_LIB.Models
 {
-    internal class Asset
+    public class Asset
     {
+        public int assetId { get; set; }
+        public int portfolioId { get; set; }
+        public string assetType { get; set; }
+        public string assetName { get; set; }
+        public int quantity { get; set; }
+        public decimal purchasePrice { get; set; }
+
     }
 }

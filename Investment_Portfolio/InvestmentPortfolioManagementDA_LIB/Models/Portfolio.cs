@@ -10,7 +10,7 @@ namespace InvestmentPortfolioManagementDA_LIB.Models
     {
         public int portfolioId { get; set; }
         public int userId { get; set; }
-        public varchar portfoliaName { get; set; }
+        public string portfolioName { get; set; }
         public DateTime creationDate { get; set; }
 
     }

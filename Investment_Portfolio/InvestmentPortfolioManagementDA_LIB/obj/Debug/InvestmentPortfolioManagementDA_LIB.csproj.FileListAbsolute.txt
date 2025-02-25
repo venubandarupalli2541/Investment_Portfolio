@@ -1,0 +1,2 @@
+C:\Users\2387569\Source\Repos\Investment_Portfolio\Investment_Portfolio\InvestmentPortfolioManagementDA_LIB\obj\Debug\InvestmentPortfolioManagementDA_LIB.csproj.AssemblyReference.cache
+C:\Users\2387569\Source\Repos\Investment_Portfolio\Investment_Portfolio\InvestmentPortfolioManagementDA_LIB\obj\Debug\InvestmentPortfolioManagementDA_LIB.csproj.CoreCompileInputs.cache

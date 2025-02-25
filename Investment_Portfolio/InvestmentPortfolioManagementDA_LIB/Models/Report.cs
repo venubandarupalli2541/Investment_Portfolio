@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace InvestmentPortfolioManagementDA_LIB.Models
 {
-    internal class Report
+    public class Report
     {
+        public int reportId { set; get; }
+        public string reportType { set; get; }
+        public DateTime generatedDate { set; get; }
     }
 }

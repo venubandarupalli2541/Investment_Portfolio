@@ -1,130 +1,74 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\",
+  "WorkspaceRootPath": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\",
   "Documents": [
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|c:\\users\\2387569\\source\\repos\\investment_portfolio\\investmentportfoliomanagementda_lib\\models\\user_portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|solutionrelative:investmentportfoliomanagementda_lib\\models\\user_portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|c:\\users\\2387569\\source\\repos\\investment_portfolio\\investment_portfolio\\investmentportfoliomanagementda_lib\\references\\riskdarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|solutionrelative:investmentportfoliomanagementda_lib\\references\\riskdarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|c:\\users\\2387569\\source\\repos\\investment_portfolio\\investmentportfoliomanagementda_lib\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|solutionrelative:investmentportfoliomanagementda_lib\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|c:\\users\\2387569\\source\\repos\\investment_portfolio\\investment_portfolio\\investmentportfoliomanagementda_lib\\references\\userportfoliorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|solutionrelative:investmentportfoliomanagementda_lib\\references\\userportfoliorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|c:\\users\\2387569\\source\\repos\\investment_portfolio\\investmentportfoliomanagementda_lib\\models\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|solutionrelative:investmentportfoliomanagementda_lib\\models\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|c:\\users\\2387569\\source\\repos\\investment_portfolio\\investmentportfoliomanagementda_lib\\models\\risk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\investmentportfoliomanagementda_lib\\models\\risk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|solutionrelative:investmentportfoliomanagementda_lib\\models\\risk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|c:\\users\\2387569\\source\\repos\\investment_portfolio\\investmentportfoliomanagementda_lib\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\investmentportfoliomanagementda_lib\\models\\user_portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|solutionrelative:investmentportfoliomanagementda_lib\\models\\user_portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|c:\\users\\2387569\\source\\repos\\investment_portfolio\\investment_portfolio\\investmentportfoliomanagementda_lib\\references\\reportdarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|solutionrelative:investmentportfoliomanagementda_lib\\references\\reportdarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|c:\\users\\2387569\\source\\repos\\investment_portfolio\\investment_portfolio\\investmentportfoliomanagementda_lib\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|solutionrelative:investmentportfoliomanagementda_lib\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|c:\\users\\2387569\\source\\repos\\investment_portfolio\\investment_portfolio\\investmentportfoliomanagementda_lib\\references\\assetdarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|solutionrelative:investmentportfoliomanagementda_lib\\references\\assetdarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|c:\\users\\2387569\\source\\repos\\investment_portfolio\\investment_portfolio\\investmentportfoliomanagementda_lib\\references\\performancedarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|solutionrelative:investmentportfoliomanagementda_lib\\references\\performancedarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|c:\\users\\2387569\\source\\repos\\investment_portfolio\\investment_portfolio\\investmentportfoliomanagementda_lib\\references\\portfoliodarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|solutionrelative:investmentportfoliomanagementda_lib\\references\\portfoliodarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|c:\\users\\2387569\\source\\repos\\investment_portfolio\\investment_portfolio\\investmentportfoliomanagementda_lib\\references\\ireferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|solutionrelative:investmentportfoliomanagementda_lib\\references\\ireferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\investmentportfoliomanagementda_lib\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|solutionrelative:investmentportfoliomanagementda_lib\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|c:\\users\\2387569\\source\\repos\\investment_portfolio\\investmentportfoliomanagementda_lib\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\investmentportfoliomanagementda_lib\\models\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|solutionrelative:investmentportfoliomanagementda_lib\\models\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\investmentportfoliomanagementda_lib\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|solutionrelative:investmentportfoliomanagementda_lib\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78B86BB-6FBB-4F46-9764-24F2D2CC10B8}|Investment_App\\Investment_App.csproj|c:\\users\\2387569\\source\\repos\\investment_portfolio\\investment_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E78B86BB-6FBB-4F46-9764-24F2D2CC10B8}|Investment_App\\Investment_App.csproj|C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\investment_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E78B86BB-6FBB-4F46-9764-24F2D2CC10B8}|Investment_App\\Investment_App.csproj|solutionrelative:investment_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F220AC2-A10C-4B03-96AB-0CF5A0C2CD7E}|InvestmentPortfolioManagementBO_Lib\\InvestmentPortfolioManagementBO_Lib.csproj|c:\\users\\2387569\\source\\repos\\investment_portfolio\\investmentportfoliomanagementbo_lib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F220AC2-A10C-4B03-96AB-0CF5A0C2CD7E}|InvestmentPortfolioManagementBO_Lib\\InvestmentPortfolioManagementBO_Lib.csproj|C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\investmentportfoliomanagementbo_lib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F220AC2-A10C-4B03-96AB-0CF5A0C2CD7E}|InvestmentPortfolioManagementBO_Lib\\InvestmentPortfolioManagementBO_Lib.csproj|solutionrelative:investmentportfoliomanagementbo_lib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|c:\\users\\2387569\\source\\repos\\investment_portfolio\\investmentportfoliomanagementda_lib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\investmentportfoliomanagementda_lib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F24536E1-DBB7-4250-898E-1C611F65D30E}|InvestmentPortfolioManagementDA_LIB\\InvestmentPortfolioManagementDA_LIB.csproj|solutionrelative:investmentportfoliomanagementda_lib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B4381AA-31E0-40A5-974A-47748CDDD5B5}|Investment_Portfolio\\Investment_Portfolio.csproj|c:\\users\\2387569\\source\\repos\\investment_portfolio\\investment_portfolio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B4381AA-31E0-40A5-974A-47748CDDD5B5}|Investment_Portfolio\\Investment_Portfolio.csproj|C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\investment_portfolio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B4381AA-31E0-40A5-974A-47748CDDD5B5}|Investment_Portfolio\\Investment_Portfolio.csproj|solutionrelative:investment_portfolio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InvestmentPortfolioManagementDA_LIB\\Models\\Report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InvestmentPortfolioManagementDA_LIB\\Models\\Asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\Investment_App\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Investment_App\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementBO_Lib\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InvestmentPortfolioManagementBO_Lib\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InvestmentPortfolioManagementDA_LIB\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\Investment_Portfolio\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-  "WorkspaceRootPath": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InvestmentPortfolioManagementDA_LIB\\Models\\Report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InvestmentPortfolioManagementDA_LIB\\Models\\Asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\Investment_App\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Investment_App\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementBO_Lib\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InvestmentPortfolioManagementBO_Lib\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InvestmentPortfolioManagementDA_LIB\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\Investment_Portfolio\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> 01be834ecd4cd40b4e68c678d1e3c83ded3445cf
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Investment_Portfolio\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 75cd8fe634f8e4260402a3163be593109c4350e9
     }
   ],
   "DocumentGroupContainers": [
@@ -134,351 +78,224 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Report.cs",
-              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Report.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\Report.cs",
-              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Report.cs",
-=======
-<<<<<<< HEAD
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Performance.cs",
-              "DocumentMoniker": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs",
-              "ToolTip": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs",
-              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:47:16.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Risk.cs",
-              "DocumentMoniker": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs",
-              "ToolTip": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs",
-              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:46:53.474Z"
-=======
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Report.cs",
-              "DocumentMoniker": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Report.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\Report.cs",
-              "ToolTip": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Report.cs",
->>>>>>> 75cd8fe634f8e4260402a3163be593109c4350e9
-              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\Report.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:47:31.118Z",
-              "EditorCaption": ""
-<<<<<<< HEAD
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Performance.cs",
-              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs",
-              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs",
-              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:47:16.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Risk.cs",
-              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs",
-              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs",
-              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:46:53.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Asset.cs",
-              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Asset.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\Asset.cs",
-              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Asset.cs",
-              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\Asset.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:46:30.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Portfolio.cs",
-              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs",
-              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs",
-              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:46:06.201Z",
-              "EditorCaption": ""
-=======
->>>>>>> 01be834ecd4cd40b4e68c678d1e3c83ded3445cf
->>>>>>> 75cd8fe634f8e4260402a3163be593109c4350e9
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-<<<<<<< HEAD
-              "Title": "User_portfolio.cs",
-              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs",
-              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs",
-              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-=======
-<<<<<<< HEAD
-              "Title": "Portfolio.cs",
-              "DocumentMoniker": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs",
-              "ToolTip": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs",
-              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Title": "RiskDARepository.cs",
+              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\References\\RiskDARepository.cs",
+              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\References\\RiskDARepository.cs",
+              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\References\\RiskDARepository.cs",
+              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\References\\RiskDARepository.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAmwHIAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:46:06.201Z",
-=======
-              "Title": "Risk.cs",
-              "DocumentMoniker": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs",
-              "ToolTip": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs",
-              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:46:53.474Z",
->>>>>>> 01be834ecd4cd40b4e68c678d1e3c83ded3445cf
+              "WhenOpened": "2025-02-25T15:44:41.318Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 2,
-              "Title": "Report.cs",
-              "DocumentMoniker": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Report.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\Report.cs",
-              "ToolTip": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Report.cs",
-              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\Report.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:47:31.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Asset.cs",
-              "DocumentMoniker": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Asset.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\Asset.cs",
-              "ToolTip": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Asset.cs",
-=======
-              "DocumentIndex": 1,
-              "Title": "User_portfolio.cs",
-              "DocumentMoniker": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs",
-              "ToolTip": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs",
-              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
->>>>>>> 75cd8fe634f8e4260402a3163be593109c4350e9
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:45:27.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_App\\Program.cs",
-              "RelativeDocumentMoniker": "Investment_App\\Program.cs",
-              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_App\\Program.cs",
-              "RelativeToolTip": "Investment_App\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:40:51.856Z",
-              "EditorCaption": ""
-=======
-              "DocumentIndex": 3,
-              "Title": "Performance.cs",
-              "DocumentMoniker": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs",
-              "ToolTip": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs",
-              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:47:16.309Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Asset.cs",
-              "DocumentMoniker": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Asset.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\Asset.cs",
-              "ToolTip": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Asset.cs",
->>>>>>> 01be834ecd4cd40b4e68c678d1e3c83ded3445cf
-              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\Asset.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ReportDARepository.cs",
+              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\References\\ReportDARepository.cs",
+              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\References\\ReportDARepository.cs",
+              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\References\\ReportDARepository.cs",
+              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\References\\ReportDARepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA4wGoAAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:46:30.261Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 1,
-              "Title": "User_portfolio.cs",
-              "DocumentMoniker": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs",
-              "ToolTip": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs",
-              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:45:27.933Z",
+              "WhenOpened": "2025-02-25T15:05:19.219Z",
               "EditorCaption": ""
-=======
-              "DocumentIndex": 5,
-              "Title": "Portfolio.cs",
-              "DocumentMoniker": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs",
-              "ToolTip": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs",
-              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:46:06.201Z"
->>>>>>> 01be834ecd4cd40b4e68c678d1e3c83ded3445cf
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-<<<<<<< HEAD
-              "DocumentMoniker": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\Investment_App\\Program.cs",
-              "RelativeDocumentMoniker": "Investment_App\\Program.cs",
-              "ToolTip": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\Investment_App\\Program.cs",
-=======
-              "DocumentMoniker": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\Investment_App\\Program.cs",
-              "RelativeDocumentMoniker": "Investment_App\\Program.cs",
-              "ToolTip": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\Investment_App\\Program.cs",
->>>>>>> 01be834ecd4cd40b4e68c678d1e3c83ded3445cf
-              "RelativeToolTip": "Investment_App\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "AssetDARepository.cs",
+              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\References\\AssetDARepository.cs",
+              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\References\\AssetDARepository.cs",
+              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\References\\AssetDARepository.cs",
+              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\References\\AssetDARepository.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAIYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:40:51.856Z"
->>>>>>> 75cd8fe634f8e4260402a3163be593109c4350e9
+              "WhenOpened": "2025-02-25T10:20:22.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "userPortfolioRepo.cs",
+              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\References\\userPortfolioRepo.cs",
+              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\References\\userPortfolioRepo.cs",
+              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\References\\userPortfolioRepo.cs",
+              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\References\\userPortfolioRepo.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAIYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:01:26.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Risk.cs",
+              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs",
+              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs",
+              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs",
+              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:16:33.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\Report.cs",
+              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Report.cs",
+              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\Report.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:08:29.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User_portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs",
+              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs",
+              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs",
+              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\User_portfolio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:16:33.32Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-<<<<<<< HEAD
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\InvestmentPortfolioManagementBO_Lib\\Class1.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementBO_Lib\\Class1.cs",
-              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\InvestmentPortfolioManagementBO_Lib\\Class1.cs",
-              "RelativeToolTip": "InvestmentPortfolioManagementBO_Lib\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Title": "PerformanceDARepository.cs",
+              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\References\\PerformanceDARepository.cs",
+              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\References\\PerformanceDARepository.cs",
+              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\References\\PerformanceDARepository.cs",
+              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\References\\PerformanceDARepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAGwAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:36:26.827Z",
+              "WhenOpened": "2025-02-25T10:11:37.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Asset.cs",
+              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\Asset.cs",
+              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Asset.cs",
+              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\Asset.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:16:33.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Class1.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Class1.cs",
-              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Class1.cs",
-              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "PortfolioDARepository.cs",
+              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\References\\PortfolioDARepository.cs",
+              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\References\\PortfolioDARepository.cs",
+              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\References\\PortfolioDARepository.cs",
+              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\References\\PortfolioDARepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAACEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:35:52.06Z",
+              "WhenOpened": "2025-02-25T09:50:02.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-=======
->>>>>>> 75cd8fe634f8e4260402a3163be593109c4350e9
+              "Title": "IReferences.cs",
+              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\References\\IReferences.cs",
+              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\References\\IReferences.cs",
+              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\References\\IReferences.cs",
+              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\References\\IReferences.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:17:21.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Performance.cs",
+              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs",
+              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs",
+              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs",
+              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\Performance.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:16:33.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs",
+              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs",
+              "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:16:33.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\Investment_App\\Program.cs",
+              "RelativeDocumentMoniker": "Investment_App\\Program.cs",
+              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\Investment_App\\Program.cs",
+              "RelativeToolTip": "Investment_App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:16:33.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Class1.cs",
-<<<<<<< HEAD
-              "DocumentMoniker": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementBO_Lib\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementBO_Lib\\Class1.cs",
               "RelativeDocumentMoniker": "InvestmentPortfolioManagementBO_Lib\\Class1.cs",
-              "ToolTip": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementBO_Lib\\Class1.cs",
-=======
-              "DocumentMoniker": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementBO_Lib\\Class1.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementBO_Lib\\Class1.cs",
-              "ToolTip": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementBO_Lib\\Class1.cs",
->>>>>>> 01be834ecd4cd40b4e68c678d1e3c83ded3445cf
+              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementBO_Lib\\Class1.cs",
               "RelativeToolTip": "InvestmentPortfolioManagementBO_Lib\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:36:26.827Z"
+              "WhenOpened": "2025-02-25T09:16:33.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Class1.cs",
-<<<<<<< HEAD
-              "DocumentMoniker": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Class1.cs",
               "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Class1.cs",
-              "ToolTip": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Class1.cs",
-=======
-              "DocumentMoniker": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Class1.cs",
-              "RelativeDocumentMoniker": "InvestmentPortfolioManagementDA_LIB\\Class1.cs",
-              "ToolTip": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Class1.cs",
->>>>>>> 01be834ecd4cd40b4e68c678d1e3c83ded3445cf
+              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\InvestmentPortfolioManagementDA_LIB\\Class1.cs",
               "RelativeToolTip": "InvestmentPortfolioManagementDA_LIB\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:35:52.06Z"
+              "WhenOpened": "2025-02-25T09:16:33.506Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Class1.cs",
-<<<<<<< HEAD
-              "DocumentMoniker": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\Investment_Portfolio\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\Investment_Portfolio\\Class1.cs",
               "RelativeDocumentMoniker": "Investment_Portfolio\\Class1.cs",
-              "ToolTip": "C:\\Users\\2387564\\OneDrive - Cognizant\\Desktop\\Project\\Investment_Portfolio\\Investment_Portfolio\\Investment_Portfolio\\Class1.cs",
-=======
-              "DocumentMoniker": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\Investment_Portfolio\\Class1.cs",
-              "RelativeDocumentMoniker": "Investment_Portfolio\\Class1.cs",
-              "ToolTip": "C:\\Users\\2387569\\OneDrive - Cognizant\\Desktop\\Project\\project_Investment_portfolio\\Investment_Portfolio\\Investment_Portfolio\\Class1.cs",
->>>>>>> 01be834ecd4cd40b4e68c678d1e3c83ded3445cf
+              "ToolTip": "C:\\Users\\2387569\\source\\repos\\Investment_Portfolio\\Investment_Portfolio\\Investment_Portfolio\\Class1.cs",
               "RelativeToolTip": "Investment_Portfolio\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T04:06:26.633Z"
-<<<<<<< HEAD
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-=======
->>>>>>> 01be834ecd4cd40b4e68c678d1e3c83ded3445cf
+              "WhenOpened": "2025-02-25T09:16:33.508Z"
             }
           ]
         }
