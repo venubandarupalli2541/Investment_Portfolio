@@ -9,6 +9,9 @@ namespace InvestmentPortfolioManagementDA_LIB.Models
     public class User_portfolio
     {
         public int UserId { get; set; }
-        public string 
+        public string username { get; set; }
+        public string password { get; set; }
+        public int email { get; set; }
+        public int role { get; set; }
     }
 }

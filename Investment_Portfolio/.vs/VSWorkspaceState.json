@@ -4,6 +4,10 @@
     "\\InvestmentPortfolioManagementDA_LIB",
     "\\InvestmentPortfolioManagementDA_LIB\\Models"
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\InvestmentPortfolioManagementDA_LIB\\Models\\Portfolio.cs",
+=======
+  "SelectedNode": "\\InvestmentPortfolioManagementDA_LIB\\Models\\Risk.cs",
+>>>>>>> 01be834ecd4cd40b4e68c678d1e3c83ded3445cf
   "PreviewInSolutionExplorer": false
 }
