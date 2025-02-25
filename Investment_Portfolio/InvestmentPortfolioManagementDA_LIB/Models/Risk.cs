@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace InvestmentPortfolioManagementDA_LIB.Models
 {
-    internal class Risk
+    public class Risk
     {
+        public int riskId { get; set; }
+        public int portfolioId { get; set; }
+        public string riskLevel { get; set; }
+        public DateTime analysisDate { get; set; }
     }
 }
